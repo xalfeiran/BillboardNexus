@@ -1,0 +1,802 @@
+[
+  {
+    "id": "MCUN1",
+    "location": [
+      21.168607733161164,
+      -86.84613430042792
+    ],
+    "title": "Billboard at Av. FONATUR ESQUINA CALLE MANDARINA",
+    "price": 12000,
+    "description": "Size: 5X8 MTS, Status: DISPONIBLE"
+  },
+  {
+    "id": "MCUN106",
+    "location": [
+      21.156772951176205,
+      -86.851660027593
+    ],
+    "title": "Billboard at Av. FONATUR ESQUINA CALLE MANDARINA",
+    "price": 12000,
+    "description": "Size: 5X8 MTS, Status: DISPONIBLE"
+  },
+  {
+    "id": "MCUN2",
+    "location": [
+      21.15604334604776,
+      -86.85334739384297
+    ],
+    "title": "Billboard at Av. FONATUR ESQUINA CALLE MANDARINA",
+    "price": 12000,
+    "description": "Size: 9X5 MTS , Status: DISPONIBLE"
+  },
+  {
+    "id": "MCUN4",
+    "location": [
+      -0.0014435922146966696,
+      0.007230056442756328
+    ],
+    "title": "Billboard at AV. LAS TORRES CON AVENIDA MEXICO",
+    "price": 12000,
+    "description": "Size: 8X4 MTS , Status: OCUPADO"
+  },
+  {
+    "id": "MCUN5",
+    "location": [
+      -0.007532999649730913,
+      -0.005082593018929935
+    ],
+    "title": "Billboard at AV. LAS TORRES FRACC. PORTO BELLO",
+    "price": 12000,
+    "description": "Size: 5X6 MTS, Status: DISPONIBLE"
+  },
+  {
+    "id": "MCUN100",
+    "location": [
+      0.004895321101624364,
+      -0.004378542191083019
+    ],
+    "title": "Billboard at AV. LAS TORRES ESQUINA AV. CHAC MOL",
+    "price": 12000,
+    "description": "Size: 8X6 MTS , Status: DISPONIBLE"
+  },
+  {
+    "id": "MCUN70",
+    "location": [
+      -0.007010365960405071,
+      -0.003306544106660681
+    ],
+    "title": "Billboard at AV. HUAYACAN FRENTE ARBOLADAS",
+    "price": 12000,
+    "description": "Size: 8X4 MTS, Status: OCUPADO"
+  },
+  {
+    "id": "MCUN159",
+    "location": [
+      0.004855853020562197,
+      0.007668862571118688
+    ],
+    "title": "Billboard at AV. HUAYACAN ENTRADA AV. 135",
+    "price": 12000,
+    "description": "Size: 5X6 MTS, Status: OCUPADO"
+  },
+  {
+    "id": "MCUN166",
+    "location": [
+      0.004748063385930807,
+      0.00149583878023544
+    ],
+    "title": "Billboard at AV. HUAYACAN JUNTO CANCHAS HUAYAGOL",
+    "price": 12000,
+    "description": "Size: 5X6 MTS, Status: OCUPADO"
+  },
+  {
+    "id": "MCUN167",
+    "location": [
+      0.0016329703772550233,
+      -0.0034888089965493564
+    ],
+    "title": "Billboard at AV. HUAYACAN JUNTO PLAZA PALMARIS",
+    "price": 12000,
+    "description": "Size: 4X8 MTS , Status: OCUPADO"
+  },
+  {
+    "id": "MCUN165",
+    "location": [
+      0.004903647287662709,
+      0.005685276662847895
+    ],
+    "title": "Billboard at AV. HUAYACAN JUNTO PLAZA PALMARIS VISTA CRUZADA",
+    "price": 10000,
+    "description": "Size: 4X8 MTS , Status: OCUPADO"
+  },
+  {
+    "id": "MCUN160",
+    "location": [
+      0.007460692801376054,
+      -0.00320612386895503
+    ],
+    "title": "Billboard at AV. 135 Y CALLE DURANGO ",
+    "price": 12000,
+    "description": "Size: 5X6 MTS, Status: DISPONIBLE"
+  },
+  {
+    "id": "MCUN161",
+    "location": [
+      0.0013303655842172414,
+      -0.004402622002320983
+    ],
+    "title": "Billboard at AV. 135 Y CALLE DURANGO VISTA CRUZADA",
+    "price": 12000,
+    "description": "Size: 5X6 MTS, Status: DISPONIBLE"
+  },
+  {
+    "id": "MCUN14",
+    "location": [
+      0.005641416368913198,
+      0.005545710449097022
+    ],
+    "title": "Billboard at AV. 135 POLIGONO SUR VISTA NATURAL ",
+    "price": 14000,
+    "description": "Size: 8X4 MTS, Status: OCUPADO"
+  },
+  {
+    "id": "MCUN15",
+    "location": [
+      -0.0067478641695184645,
+      0.007054331844320873
+    ],
+    "title": "Billboard at AV. 135 POLIGONO SUR VISTA CRUZADA ",
+    "price": 12000,
+    "description": "Size: 8X4 MTS, Status: DISPONIBLE"
+  },
+  {
+    "id": "MCUN177",
+    "location": [
+      -0.006902302811469849,
+      -0.006801924724936574
+    ],
+    "title": "Billboard at AV. 135 CASI ESQUINA CON AV.  LA RIOJA",
+    "price": 12000,
+    "description": "Size: 5X6 MTS, Status: DISPONIBLE"
+  },
+  {
+    "id": "MCUN18",
+    "location": [
+      0.00046791501136171686,
+      -0.006572693054516098
+    ],
+    "title": "Billboard at BLVD, LUIS DONALDO COLOSIO. VIVERO ",
+    "price": 12000,
+    "description": "Size: 8X5 MTS , Status: DISPONIBLE"
+  },
+  {
+    "id": "MCUN19",
+    "location": [
+      0.006931957900066459,
+      0.0009984123011245174
+    ],
+    "title": "Billboard at BLVD, LUIS DONALDO COLOSIO M. VIVERO CRUZADA",
+    "price": 10000,
+    "description": "Size: 8X5 MTS , Status: OCUPADO"
+  },
+  {
+    "id": "MCUN88",
+    "location": [
+      -0.0010465693256575782,
+      -0.0011671733905507938
+    ],
+    "title": "Billboard at BLVD. LUIS DONALDO COLOSIO JUNTO FARMACIAS DEL  AHORRO",
+    "price": 12000,
+    "description": "Size: 8X4 MTS, Status: OCUPADO"
+  },
+  {
+    "id": "MCUN109",
+    "location": [
+      0.0017085728341054156,
+      0.005027527101280587
+    ],
+    "title": "Billboard at BLVD. LUIS DONALDO COLOSIO JUNTO FARMACIAS DEL  AHORRO V.C",
+    "price": 12000,
+    "description": "Size: 8X4 MTS, Status: DISPONIBLE"
+  },
+  {
+    "id": "MCUN99",
+    "location": [
+      -0.0018250891943904825,
+      0.006879298664407316
+    ],
+    "title": "Billboard at BLVD. LUIS DONALDO COLOSIO ANTES DEL AEREOPUERTO",
+    "price": 12000,
+    "description": "Size: 8X4 MTS, Status: OCUPADO"
+  },
+  {
+    "id": "MCUN152",
+    "location": [
+      0.006682106871617964,
+      -0.00041730381494490854
+    ],
+    "title": "Billboard at BLVD. LUIS DONALDO COLOSIO ANTES DEL AEREOPUERTO (2)",
+    "price": 14000,
+    "description": "Size: 5X6 MTS, Status: OCUPADO"
+  },
+  {
+    "id": "MCUN164",
+    "location": [
+      0.00025010750854268047,
+      0.0017114892318854872
+    ],
+    "title": "Billboard at BLVD. LUIS DONALDO COLOSIO ANTES DEL AEREOPUERTO (3)",
+    "price": 14000,
+    "description": "Size: 5x6 MTS, Status: DISPONIBLE"
+  },
+  {
+    "id": "MCUN171",
+    "location": [
+      -0.0032805065354718907,
+      -0.00030466543938092165
+    ],
+    "title": "Billboard at CARRETERA FED. SALIDA DE CANCUN A 50 MTS RETEN",
+    "price": 14000,
+    "description": "Size: 5X6 MTS, Status: DISPONIBLE"
+  },
+  {
+    "id": "MCUN172",
+    "location": [
+      -0.005224189942560568,
+      0.007696330799713862
+    ],
+    "title": "Billboard at CARRETERA FED. SALIDA DE CANCUN A 100 MTS RETEN",
+    "price": 14000,
+    "description": "Size: 5X6 MTS, Status: DISPONIBLE"
+  },
+  {
+    "id": "MCUN174",
+    "location": [
+      -0.001821777094996967,
+      -0.002216682865802574
+    ],
+    "title": "Billboard at BLVD. LUIS DONALDO COLOSIO JUNTO A UT",
+    "price": 12000,
+    "description": "Size: 5X6 MTS, Status: DISPONIBLE"
+  },
+  {
+    "id": "MCUN175",
+    "location": [
+      0.00047059899704996285,
+      0.0010224371226786547
+    ],
+    "title": "Billboard at BLVD. LUIS DONALDO COLOSIO JUNTO LA SALLE",
+    "price": 12000,
+    "description": "Size: 6X6 MTS, Status: DISPONIBLE"
+  },
+  {
+    "id": "MCUN176",
+    "location": [
+      0.0011119213997202277,
+      -0.0024582565542790456
+    ],
+    "title": "Billboard at BLVD. LUIS DONALDO COLOSIO FTE CFE",
+    "price": 12000,
+    "description": "Size: 5X6 MTS, Status: DISPONIBLE"
+  },
+  {
+    "id": "MCUN154",
+    "location": [
+      -0.005033032102878666,
+      0.0056525501266399296
+    ],
+    "title": "Billboard at CARRETERA FED, ENTRANDO A CANCUN ANTES DEL RETEN",
+    "price": 14000,
+    "description": "Size: 10X5 MTS, Status: OCUPADO"
+  },
+  {
+    "id": "MCUN155",
+    "location": [
+      0.0067288027193883075,
+      0.003947180538292635
+    ],
+    "title": "Billboard at CARRETERA FED, ENTRANDO A CANCUN ANTES DEL RETEN (2)",
+    "price": 14000,
+    "description": "Size: 10X5 MTS, Status: DISPONIBLE"
+  },
+  {
+    "id": "MCUN156",
+    "location": [
+      0.0003920373931390736,
+      0.007698014515481901
+    ],
+    "title": "Billboard at CARRETERA FED, ENTRANDO A CANCUN ANTES DEL RETEN (3)",
+    "price": 14000,
+    "description": "Size: 10X5 MTS, Status: DISPONIBLE"
+  },
+  {
+    "id": "MCUN173",
+    "location": [
+      0.004081444811700144,
+      0.003017187692664099
+    ],
+    "title": "Billboard at CARRETERA FED, ENTRANDO A CANCUN ANTES DEL RETEN (4)",
+    "price": 14000,
+    "description": "Size: 10X5 MTS, Status: OCUPADO"
+  },
+  {
+    "id": "MCUN24",
+    "location": [
+      -0.001174650064122876,
+      0.0016711701136420882
+    ],
+    "title": "Billboard at Av.LOPEZ  PORTILLO Y KABAH JUNTO DOMINOS ",
+    "price": 14000,
+    "description": "Size: 8.40x6.80 MTS, Status: OCUPADO"
+  },
+  {
+    "id": "MCUN47",
+    "location": [
+      0.002942899632092438,
+      0.0032995772945257724
+    ],
+    "title": "Billboard at AV. LOPEZ PORTILLO KM 21",
+    "price": 12000,
+    "description": "Size: 12X6MTS , Status: DISPONIBLE"
+  },
+  {
+    "id": "MCUN48",
+    "location": [
+      -0.006293562093682738,
+      -0.0008650750094467547
+    ],
+    "title": "Billboard at AV. LOPEZ PORTILLO KM 21 VISTA CRUZADA",
+    "price": 10000,
+    "description": "Size: 12X6MTS , Status: DISPONIBLE"
+  },
+  {
+    "id": "MCUN49",
+    "location": [
+      -0.007588404645487463,
+      -0.0043288044181660455
+    ],
+    "title": "Billboard at AV. LOPEZ PORTILLO KM 33 ",
+    "price": 10000,
+    "description": "Size: 12X4 MTS , Status: DISPONIBLE"
+  },
+  {
+    "id": "MCUN50",
+    "location": [
+      -0.006617858056611446,
+      0.0057418795775456615
+    ],
+    "title": "Billboard at AV.LOPEZ PORTILLO Y LANKIN (TALLER SOLDADURA)",
+    "price": "$12,000,00",
+    "description": "Size: 7X6 MTS, Status: DISPONIBLE"
+  },
+  {
+    "id": "MCUN51",
+    "location": [
+      -0.006718790142105153,
+      0.0001819890364706573
+    ],
+    "title": "Billboard at AV. LOPEZ PORTILLO Y LANKIN CRUZADA (TALLER SOLDADURA)",
+    "price": "$12,000,00",
+    "description": "Size: 8X4MTS , Status: DISPONIBLE"
+  },
+  {
+    "id": "MCUN79",
+    "location": [
+      -0.005942737250941901,
+      0.005498944195475763
+    ],
+    "title": "Billboard at AV.LOPEZ PORTILLO KM 20",
+    "price": 12000,
+    "description": "Size: 7X5 MTS, Status: OCUPADO"
+  },
+  {
+    "id": "MCUN80",
+    "location": [
+      0.00011528068563995979,
+      0.004812204033346996
+    ],
+    "title": "Billboard at AV LOPEZ PORTILLO ENTRADA ARCO VIAL",
+    "price": 12000,
+    "description": "Size: 5X6 MTS, Status: OCUPADO"
+  },
+  {
+    "id": "MCUN81",
+    "location": [
+      -0.0032484024879015695,
+      -0.00785271852709906
+    ],
+    "title": "Billboard at AV LOPEZ PORTILLO ENTRADA ARCO VIAL CRUZADA",
+    "price": 10000,
+    "description": "Size: 5X6 MTS, Status: OCUPADO"
+  },
+  {
+    "id": " MCUN157",
+    "location": [
+      -0.0043079168186015565,
+      0.004633053720749338
+    ],
+    "title": "Billboard at AV. LA LUNA ESQUINA POLITECNICO",
+    "price": 12000,
+    "description": "Size: 5X6 MTS, Status: OCUPADO"
+  },
+  {
+    "id": "MCUN158",
+    "location": [
+      -0.007298136960291217,
+      0.0002171106608239834
+    ],
+    "title": "Billboard at AV. LA LUNA ESQUINA POLITECNICO (2)",
+    "price": 12000,
+    "description": "Size: 5X6 MTS, Status: OCUPADO"
+  },
+  {
+    "id": "MCUN140",
+    "location": [
+      0.0045679184549112534,
+      0.0004942923381246021
+    ],
+    "title": "Billboard at AV. PROLONGACION LA LUNA ENTRANDO POR FONATUR",
+    "price": 12000,
+    "description": "Size: 8x4 MTS, Status: OCUPADO"
+  },
+  {
+    "id": "MCUN140",
+    "location": [
+      0.007679584898518017,
+      0.006212456281310489
+    ],
+    "title": "Billboard at AV. PROLONGACION LA LUNA ENTRANDO POR FONATUR",
+    "price": 12000,
+    "description": "Size: 8x4 MTS, Status: OCUPADO"
+  },
+  {
+    "id": "MCUN141",
+    "location": [
+      0.007225000663639804,
+      -0.005291115272285444
+    ],
+    "title": "Billboard at AV. PROLONGACION LA LUNA ENTRANDO POR HUAYACAN",
+    "price": 12000,
+    "description": "Size: 5X6MTS, Status: DISPONIBLE"
+  },
+  {
+    "id": "MCUN151",
+    "location": [
+      0.00042870992936629734,
+      0.004349897313215185
+    ],
+    "title": "Billboard at AV. PROLONGACION LA LUNA ENTRANDO POR HUAYACAN V. CRUZADA",
+    "price": 12000,
+    "description": "Size: 5X6MTS, Status: DISPONIBLE"
+  },
+  {
+    "id": "MCUN180",
+    "location": [
+      0.007866352856229877,
+      -0.001961637949397864
+    ],
+    "title": "Billboard at AV. NICHUPTE Y TULUM ",
+    "price": 12000,
+    "description": "Size: 5X6 MTS, Status: DISPONIBLE"
+  },
+  {
+    "id": "MCUN34",
+    "location": [
+      -0.003472466817143564,
+      -0.0029886345308048606
+    ],
+    "title": "Billboard at AV.KABAH FRENTE AL OMBLIGO VERDE",
+    "price": 12000,
+    "description": "Size: 8X4 MTS , Status: DISPONIBLE"
+  },
+  {
+    "id": "MCUN35",
+    "location": [
+      0.0008788970527729165,
+      0.00019288773266220975
+    ],
+    "title": "Billboard at AV. KABAH FRENTE AL OMBLIGO VERDE VISTA CRUZADA",
+    "price": 10000,
+    "description": "Size: 8X4 MTS , Status: DISPONIBLE"
+  },
+  {
+    "id": "MCUN71",
+    "location": [
+      -0.0033680785097966455,
+      0.005511226438327328
+    ],
+    "title": "Billboard at AV. KABAH FRENTE CFE",
+    "price": 12000,
+    "description": "Size: 5X8 MTS, Status: OCUPADO"
+  },
+  {
+    "id": "mcun107",
+    "location": [
+      0.007650027331882509,
+      0.0044283929159370655
+    ],
+    "title": "Billboard at AV. KABAH FRENTE CFE (2)",
+    "price": 12000,
+    "description": "Size: 5X8 MTS, Status: OCUPADO"
+  },
+  {
+    "id": "MCUN87",
+    "location": [
+      0.007403426345776341,
+      0.003422798607435364
+    ],
+    "title": "Billboard at AV. KABAH ESQUINA ARCO VIAL",
+    "price": 12000,
+    "description": "Size: 8X4 MTS, Status: OCUPADO"
+  },
+  {
+    "id": "MCUN121",
+    "location": [
+      -0.00275959264706145,
+      0.007657628285369027
+    ],
+    "title": "Billboard at AV. KABAH ESQUINA ARCO VIAL CRUZADA",
+    "price": 12000,
+    "description": "Size: 8X4 MTS, Status: DISPONIBLE"
+  },
+  {
+    "id": "MCUN42",
+    "location": [
+      0.0032856275466294814,
+      0.0037779327793895645
+    ],
+    "title": "Billboard at AV. BONAMPAK-RUTA 4 REFACCIONARIA ",
+    "price": 12000,
+    "description": "Size: 8 X 4 MTS, Status: DISPONIBLE"
+  },
+  {
+    "id": "MCUN86",
+    "location": [
+      -0.00017893609208923558,
+      0.0019965073133639834
+    ],
+    "title": "Billboard at AV. BONAMPAK JUNTO CASABLANCA",
+    "price": 12000,
+    "description": "Size: 5X8 MTS, Status: DISPONIBLE"
+  },
+  {
+    "id": "MCUN142",
+    "location": [
+      0.00340539967017632,
+      0.0019822809549914777
+    ],
+    "title": "Billboard at AV. BONAMPAK JUNTO CASABLANCA 2",
+    "price": 12000,
+    "description": "Size: 5X8 MTS, Status: DISPONIBLE"
+  },
+  {
+    "id": "e7f5e4bb-91ac-4f7c-97ca-1ceb2d952fc9",
+    "location": [
+      0.002768407660047976,
+      -0.007034249860029151
+    ],
+    "title": "Billboard at AV BONAMPAK JUNTO CASA BLANCA 3",
+    "price": 12000,
+    "description": "Size: 5X8 MTS, Status: DISPONIBLE"
+  },
+  {
+    "id": "MCUN124",
+    "location": [
+      -5.868188361957256e-05,
+      -0.006815199203226769
+    ],
+    "title": "Billboard at AV. 20 DE NOVIEMBRE  FTE CONALEP",
+    "price": 12000,
+    "description": "Size: 8X4 MTS, Status: DISPONIBLE"
+  },
+  {
+    "id": "MCUN125",
+    "location": [
+      -0.0014555052486052032,
+      -0.006228945316149991
+    ],
+    "title": "Billboard at AV. 20 DE NOVIEMBRE  FTE CONALEP",
+    "price": 12000,
+    "description": "Size: 8X4 MTS, Status: OCUPADO"
+  },
+  {
+    "id": "MCUN54",
+    "location": [
+      -0.003474078650649701,
+      -0.00409905726418063
+    ],
+    "title": "Billboard at ARCO VIAL, ENTRADA FRACC PASEOS DEL MAR (2)",
+    "price": 12000,
+    "description": "Size: 4X8 MTS , Status: OCUPADO"
+  },
+  {
+    "id": "MCUN69",
+    "location": [
+      0.0023820474588570014,
+      -0.0050691207479912894
+    ],
+    "title": "Billboard at ARCO VIAL, ENTRADA FRACC PASEOS DEL MAR (2 CRUZADA)",
+    "price": 12000,
+    "description": "Size: 4X8 MTS , Status: DISPONIBLE"
+  },
+  {
+    "id": "mcun105",
+    "location": [
+      0.004286639233660468,
+      -0.005249820662591428
+    ],
+    "title": "Billboard at ARCO VIAL FRENTE HOSPITAL GENERAL",
+    "price": 12000,
+    "description": "Size: 8X4 MTS, Status: OCUPADO"
+  },
+  {
+    "id": "MCUN122",
+    "location": [
+      5.3110682371865404e-05,
+      0.005028489998148134
+    ],
+    "title": "Billboard at ARCO VIAL FRENTE HOSPITAL GENERAL CRUZADA",
+    "price": 12000,
+    "description": "Size: 8X4 MTS, Status: OCUPADO"
+  },
+  {
+    "id": "MCUN59",
+    "location": [
+      -0.005335467747380137,
+      0.0028145132830379904
+    ],
+    "title": "Billboard at AV. LANKIN Y LEONA VICARIO",
+    "price": "$12,000,00",
+    "description": "Size: 8X4MTS , Status: OCUPADO"
+  },
+  {
+    "id": "MCUN60",
+    "location": [
+      -0.005903167365217336,
+      -0.0026572576329019163
+    ],
+    "title": "Billboard at AV. LANKIN Y LEONA VICARIO VISTA CRUZADA",
+    "price": "$12,000,00",
+    "description": "Size: 8X4MTS , Status: DISPONIBLE"
+  },
+  {
+    "id": "MCUN62",
+    "location": [
+      -0.0006482134282695708,
+      -0.0002940461655876364
+    ],
+    "title": "Billboard at AV. LANKIN Y RUTA 4",
+    "price": "$12,000,00",
+    "description": "Size: 5X8 MTS, Status: OCUPADO"
+  },
+  {
+    "id": "MCUN63",
+    "location": [
+      0.0018177536225922621,
+      -0.00245893438802175
+    ],
+    "title": "Billboard at AV. LANKIN Y RUTA 4 VISTA CRUZADA",
+    "price": "$12,000,00",
+    "description": "Size: 5X8 MTS, Status: DISPONIBLE"
+  },
+  {
+    "id": "MCUN168",
+    "location": [
+      0.00272538437609141,
+      0.001746914237279754
+    ],
+    "title": "Billboard at AV.LANKIN Y RUTA 4 (1)",
+    "price": 12000,
+    "description": "Size: 8x4 MTS, Status: DISPONIBLE"
+  },
+  {
+    "id": "MCUN170",
+    "location": [
+      0.0038171005607481453,
+      1.2749776815345247e-05
+    ],
+    "title": "Billboard at AV.LANKIN Y RUTA 4 (2)",
+    "price": 12000,
+    "description": "Size: 8X4MTS , Status: DISPONIBLE"
+  },
+  {
+    "id": "MCUN64",
+    "location": [
+      0.006441867898219245,
+      0.0003836853839770701
+    ],
+    "title": "Billboard at AV. LANKIN JUNTO GLORIETA PRADO NORTE",
+    "price": 12000,
+    "description": "Size: 8X4 MTS, Status: OCUPADO"
+  },
+  {
+    "id": "MCUN65",
+    "location": [
+      0.00345539733847346,
+      0.00546161111413875
+    ],
+    "title": "Billboard at PUEBLO LEONA VICARIO ENTRADA MERIDA- LEONA V.",
+    "price": 10000,
+    "description": "Size: 6X9 MTS , Status: DISPONIBLE"
+  },
+  {
+    "id": "MCUN66",
+    "location": [
+      -0.0067922095202701555,
+      0.004488436286466913
+    ],
+    "title": "Billboard at PUEBLO LEONA VICARIO ENTRADA MERIDA- LEONA V. CRUZADA",
+    "price": 10000,
+    "description": "Size: 6X9 MTS , Status: DISPONIBLE"
+  },
+  {
+    "id": "MCUN45",
+    "location": [
+      0.0071749491028756125,
+      -0.0011377912306130716
+    ],
+    "title": "Billboard at AV. CHACMOOL  Y LEONA VICARIO",
+    "price": 12000,
+    "description": "Size: 8X4 MTS , Status: DISPONIBLE"
+  },
+  {
+    "id": "MCUN46",
+    "location": [
+      0.0017627772227804604,
+      0.0004932009031142283
+    ],
+    "title": "Billboard at AV. CHACMOOL Y LEONA VICARIO (2) ",
+    "price": 12000,
+    "description": "Size: 8X4 MTS, Status: DISPONIBLE"
+  },
+  {
+    "id": "18e04a03-5e98-4b9c-b714-55e5c0c4eb1c",
+    "location": [
+      0.0030473956594799555,
+      -0.0008731555578738043
+    ],
+    "title": "Billboard at AV. CHACMOOL Y LEONA VICARIO (3) ",
+    "price": 12000,
+    "description": "Size: 8X4 MTS, Status: OCUPADO"
+  },
+  {
+    "id": "MCUN89",
+    "location": [
+      0.005482382644075113,
+      0.002673679244715841
+    ],
+    "title": "Billboard at AV. CHACMOOL Y ARCO NORTE",
+    "price": 12000,
+    "description": "Size: 8X4 MTS, Status: OCUPADO"
+  },
+  {
+    "id": "MCUN90",
+    "location": [
+      0.004290998217714887,
+      -0.0016253302057122217
+    ],
+    "title": "Billboard at AV.CHACMOOL Y ARCO NORTE VISTA CRUZADA",
+    "price": 12000,
+    "description": "Size: 8X4 MTS, Status: OCUPADO"
+  },
+  {
+    "id": "mcun104",
+    "location": [
+      -0.007295927701242106,
+      -0.007490246457799765
+    ],
+    "title": "Billboard at AV. CHAC MOOL ESQUINA NI\u00d1OS HEROES ",
+    "price": 12000,
+    "description": "Size: 5X6 MTS, Status: OCUPADO"
+  },
+  {
+    "id": "MCUN130",
+    "location": [
+      -0.0017170703434902044,
+      0.004747253420782412
+    ],
+    "title": "Billboard at BONFIL ESTADIO BEISBALL",
+    "price": 12000,
+    "description": "Size: 8X4 MTS, Status: DISPONIBLE"
+  }
+]

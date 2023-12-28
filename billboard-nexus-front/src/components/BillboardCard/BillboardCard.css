@@ -1,0 +1,37 @@
+.billboard-card {
+  display: flex;
+  align-items: center;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  overflow: hidden;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  transition: box-shadow 0.3s ease;
+  cursor: pointer;
+  padding: 10px;
+}
+
+.card-icon img {
+  width: 50px; /* Adjust as needed */
+  height: 50px; /* Adjust as needed */
+  margin-right: 20px; /* Space between icon and text */
+}
+
+.billboard-info {
+  flex-grow: 1;
+}
+
+.billboard-title {
+  margin: 0;
+  color: #333;
+  font-size: 18px;
+  font-weight: 600;
+}
+
+.billboard-location,
+.billboard-price {
+  margin: 4px 0;
+  color: #666;
+  font-size: 14px;
+}
+
+/* Add more styles for responsiveness and theme as needed */

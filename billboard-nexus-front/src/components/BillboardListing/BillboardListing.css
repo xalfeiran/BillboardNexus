@@ -1,0 +1,23 @@
+.billboard-listing {
+    display: flex;
+    overflow-x: auto; /* if you want a horizontal scroll */
+    gap: 16px; /* adjust the space between cards */
+    padding: 16px; /* adjust to your liking */
+  }
+  
+  /* You might want to add media queries for responsiveness */
+  @media (min-width: 768px) {
+    .billboard-listing {
+      justify-content: center;
+      flex-wrap: wrap;
+    }
+  }
+  
+
+  /* if screen is less than 768px wide, make it 2 columns */
+@media (max-width: 768px) {
+    .billboard-listing {
+      flex-wrap: wrap;
+      justify-content: center;
+    }
+  }
