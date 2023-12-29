@@ -1,5 +1,7 @@
 .billboard-card {
+  /* width: 300px; Remove or comment out the fixed width */
   display: flex;
+  min-width: 400px;
   align-items: center;
   border: 1px solid #ddd;
   border-radius: 4px;
@@ -8,16 +10,18 @@
   transition: box-shadow 0.3s ease;
   cursor: pointer;
   padding: 10px;
+  /* margin-bottom: 20px; Adjust or remove margin as needed */
 }
 
 .card-icon img {
-  width: 50px; /* Adjust as needed */
-  height: 50px; /* Adjust as needed */
-  margin-right: 20px; /* Space between icon and text */
+  width: 50px; 
+  height: 50px; 
+  margin-right: 20px;
 }
 
 .billboard-info {
   flex-grow: 1;
+  overflow: hidden; /* Ensures text doesn't spill out */
 }
 
 .billboard-title {
@@ -25,6 +29,18 @@
   color: #333;
   font-size: 18px;
   font-weight: 600;
+  white-space: nowrap; /* Prevents the text from wrapping */
+  overflow: hidden; /* Ensures text doesn't spill out */
+  text-overflow: ellipsis; /* Adds an ellipsis to text that's too long */
+}
+
+.billboard-address {
+  margin: 4px 0;
+  color: #666;
+  font-size: 11px;
+  white-space: wrap; /* Prevents the text from wrapping */
+  overflow: hidden; /* Ensures text doesn't spill out */
+  text-overflow: ellipsis; /* Adds an ellipsis to text that's too long */
 }
 
 .billboard-location,

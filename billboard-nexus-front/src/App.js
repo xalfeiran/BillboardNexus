@@ -10,6 +10,8 @@ import './App.css';
 
 function App() {
 
+  const logo = '/BillboardNexus_logo.png'; // Path to the logo image
+
   // set to cancun as default
   const [mapCenter, setMapCenter] = useState([21.161908, -86.851528]); // Default center
 
@@ -56,6 +58,9 @@ function App() {
     <div className="App">
       <Header />
       <main>
+      <div className="logo-container">
+          <img src={logo} alt="Logo" className="logo" /> {/* Logo image */}
+        </div>
         <SearchBar onSearch={handleSearch} />
         <Map billboards={billboardData} center={mapCenter} />
         <BillboardListing listings={billboardData} onBillboardClick={handleBillboardClick} />

@@ -6,7 +6,6 @@ const UseMapCenter = (position) => {
 
   // Effect to re-center the map when the 'center' changes
   useEffect(() => {
-    console.log('center changed');
     console.log(position.center);
     if (position.center) {
      map.flyTo(position.center, 15);

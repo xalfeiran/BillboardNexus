@@ -84,4 +84,12 @@ input[type='password'] {
   border-radius: 5px;
 }
 
-/* Add more custom styles as needed */
+.logo-container {
+  text-align: left; /* Center the logo */
+  padding: 20px; /* Add some padding around the logo */
+}
+
+.logo {
+  width: 150px; /* Adjust as needed */
+  height: auto; /* Maintain aspect ratio */
+}
